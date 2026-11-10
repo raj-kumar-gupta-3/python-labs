@@ -1,9 +1,9 @@
-# Python Labs
+# Python Practice
 
-My Python lab work from the BCA course at Tribhuvan University.
+Small Python programs I write while learning Python.
 
-I write each lab in my own folder.
+I am a beginner. I write and run each program myself, and some of them were written with AI help while I learn.
 
-| Lab | Topic |
-|-----|-------|
-| Lab01 | [Topic name] |
+| Folder | Program |
+|--------|---------|
+| Practice01-Hello | Ask name and say hello |
