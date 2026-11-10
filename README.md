@@ -2,7 +2,7 @@
 
 Small Python programs I write while learning Python.
 
-I am a beginner. I write and run each program myself, and some of them were written with AI help while I learn.
+I am a beginner. I write and run each program myself, 
 
 | Folder | Program |
 |--------|---------|
