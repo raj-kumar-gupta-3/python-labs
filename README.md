@@ -9,3 +9,4 @@ I am a beginner. I write and run each program myself,
 | Practice01-Hello | Ask name and say hello |
 | Practice02-Calculator | Add, subtract, multiply and divide two numbers |
 | Practice03-EvenOdd | Check if a number is even or odd |
+| Practice04-Grade | Show a grade from marks |
