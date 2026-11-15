@@ -17,3 +17,4 @@ I am a beginner. I write and run each program myself,
 | Practice09-PingCheck | Check if a host is reachable using ping |
 | Practice10-PortCheck | Check if some ports are open on my own computer |
 | Practice11-Website IP | Check Website IP |
+| Practice12-WebsiteStatus | Check if a website is working using its status code |
