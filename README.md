@@ -14,3 +14,5 @@ I am a beginner. I write and run each program myself,
 | Practice06-Lists | Add, count, show and remove items in a list |
 | Practice07-Functions | Functions for greeting, square and bigger number |
 | Practice-8-Files | Write to a file and read it back |
+| Practice09-PingCheck | Check if a host is reachable using ping |
+| Practice10-PortCheck | Check if some ports are open on my own computer |
