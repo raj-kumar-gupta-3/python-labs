@@ -13,3 +13,4 @@ I am a beginner. I write and run each program myself,
 | Practice05-Loops | Print numbers 1 to 10 and a multiplication table |
 | Practice06-Lists | Add, count, show and remove items in a list |
 | Practice07-Functions | Functions for greeting, square and bigger number |
+| Practice-8-Files | Write to a file and read it back |
